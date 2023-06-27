@@ -1,6 +1,6 @@
 const mongoDB = require("mongodb");
 const { MongoClient } = mongoDB;
-const [username, password] = ["root", "root"];
+const [username, password] = [];
 const url = `mongodb+srv://${username}:${password}@sandbox.daqr5.mongodb.net/sample_mflix?retryWrites=true&w=majority`;
 
 let _db;
