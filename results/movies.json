@@ -1,0 +1,601 @@
+[
+  {
+      "_id": "573a1399f29313caabcec5ca",
+      "plot": "Image and music are intertwined in this third collaboration between director Godfrey Reggio and composer Philip Glass. The film was produced to celebrate the World Wildlife Fund's ...",
+      "genres": [
+          "Documentary",
+          "Short"
+      ],
+      "runtime": 28,
+      "title": "Anima Mundi",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTI4Mjk4NzQ5N15BMl5BanBnXkFtZTYwMTAxODU5._V1_SY1000_SX677_AL_.jpg",
+      "countries": [
+          "Italy"
+      ],
+      "fullplot": "Image and music are intertwined in this third collaboration between director Godfrey Reggio and composer Philip Glass. The film was produced to celebrate the World Wildlife Fund's Biological Diversity Campaign. The film combines images of nature with pulsing rhythms in a Microcosmos (1997) meets Koyaanisqatsi (1983) spectacle.",
+      "released": "1993-05-07T00:00:00.000Z",
+      "directors": [
+          "Godfrey Reggio"
+      ],
+      "writers": [
+          "Silvano Cavatorta (concept)",
+          "Francis Kuipers (concept)",
+          "Luca Mortara (concept)",
+          "Gianfilippo Pedote (concept)",
+          "Godfrey Reggio (concept)",
+          "Godfrey Reggio (scenario)",
+          "Neil Bockman (dramaturgist)",
+          "Philip Glass (dramaturgist)",
+          "Ray Hemenez (dramaturgist)",
+          "Miroslav Janek (dramaturgist)",
+          "Francis Kuipers (dramaturgist)",
+          "Godfrey Reggio (dramaturgist)"
+      ],
+      "awards": {
+          "wins": 3,
+          "nominations": 0,
+          "text": "3 wins."
+      },
+      "lastupdated": "2015-09-01 00:05:16.897000000",
+      "year": 1992,
+      "imdb": {
+          "rating": 7.9,
+          "votes": 745,
+          "id": 101349
+      },
+      "type": "movie",
+      "tomatoes": {
+          "viewer": {
+              "rating": 4,
+              "numReviews": 431,
+              "meter": 86
+          },
+          "dvd": "1994-03-16T00:00:00.000Z",
+          "production": "Tara Releasing",
+          "lastUpdated": "2015-07-26T18:56:10.000Z"
+      }
+  },
+  {
+      "_id": "573a1399f29313caabcec6d7",
+      "plot": "Phoebe and fellow American Julian Peters meet in Rome, find a lost dog, and agree to return it to Monte Carlo to split the five thousand dollar reward. Discovering the dog's owner dead, ...",
+      "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+      ],
+      "runtime": 94,
+      "rated": "PG",
+      "cast": [
+          "John Candy",
+          "James Belushi",
+          "Cybill Shepherd",
+          "Sean Young"
+      ],
+      "num_mflix_comments": 5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDM0OTJhYzQtYjNmMS00MzcwLWFhYzItNmI2OGFmNDMzZGZmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_SX677_AL_.jpg",
+      "title": "Once Upon a Crime...",
+      "fullplot": "Phoebe and fellow American Julian Peters meet in Rome, find a lost dog, and agree to return it to Monte Carlo to split the five thousand dollar reward. Discovering the dog's owner dead, they panic and become fugitives. Other victims of misfortune also become suspects, as the plot twists and luck and judgment desert everyone.",
+      "languages": [
+          "English"
+      ],
+      "released": "1992-03-06T00:00:00.000Z",
+      "directors": [
+          "Eugene Levy"
+      ],
+      "writers": [
+          "Rodolfo Sonego (story)",
+          "Rodolfo Sonego (earlier screenplay)",
+          "Giorgio Arlorio (earlier screenplay)",
+          "Stefano Strucchi (earlier screenplay)",
+          "Luciano Vincenzoni (earlier screenplay)",
+          "Charles Shyer (screenplay)",
+          "Nancy Meyers (screenplay)",
+          "Steve Kluger (screenplay)"
+      ],
+      "awards": {
+          "wins": 0,
+          "nominations": 1,
+          "text": "1 nomination."
+      },
+      "lastupdated": "2015-08-05 01:20:37.053000000",
+      "year": 1992,
+      "imdb": {
+          "rating": 5.8,
+          "votes": 2645,
+          "id": 101625
+      },
+      "countries": [
+          "Germany",
+          "USA"
+      ],
+      "type": "movie",
+      "tomatoes": {
+          "viewer": {
+              "rating": 3,
+              "numReviews": 1976,
+              "meter": 44
+          },
+          "dvd": "2003-12-02T00:00:00.000Z",
+          "critic": {
+              "rating": 3.7,
+              "numReviews": 6,
+              "meter": 0
+          },
+          "lastUpdated": "2015-08-03T18:10:39.000Z",
+          "rotten": 6,
+          "production": "MGM",
+          "fresh": 0
+      }
+  },
+  {
+      "_id": "573a1399f29313caabcec771",
+      "plot": "Music critic Robert Palmer narrates the insightful story of Delta blues and North Mississippi hill country blues.",
+      "genres": [
+          "Documentary",
+          "Music"
+      ],
+      "runtime": 91,
+      "cast": [
+          "Robert Palmer",
+          "David A. Stewart",
+          "Abraham Schwab",
+          "Booker T. Laury"
+      ],
+      "num_mflix_comments": 1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTI5ODY4MTQxM15BMl5BanBnXkFtZTcwMTkwNjAzMQ@@._V1_SY1000_SX677_AL_.jpg",
+      "title": "Deep Blues",
+      "fullplot": "Music critic Robert Palmer narrates the insightful story of Delta blues and North Mississippi hill country blues.",
+      "languages": [
+          "English"
+      ],
+      "released": "1995-06-21T00:00:00.000Z",
+      "directors": [
+          "Robert Mugge"
+      ],
+      "writers": [
+          "Robert Palmer"
+      ],
+      "awards": {
+          "wins": 0,
+          "nominations": 1,
+          "text": "1 nomination."
+      },
+      "lastupdated": "2015-08-08 00:31:46.130000000",
+      "year": 1992,
+      "imdb": {
+          "rating": 7.5,
+          "votes": 93,
+          "id": 101697
+      },
+      "countries": [
+          "UK"
+      ],
+      "type": "movie",
+      "tomatoes": {
+          "viewer": {
+              "rating": 3.6,
+              "numReviews": 421,
+              "meter": 94
+          },
+          "dvd": "2000-04-11T00:00:00.000Z",
+          "production": "Radio Active Film",
+          "lastUpdated": "2015-08-17T18:18:09.000Z"
+      }
+  },
+  {
+      "_id": "573a1399f29313caabcec44d",
+      "plot": "The spoilt son of a millionaire finds the love of his life, but she will only accept him if he proves himself as a kung-fu master. He enters and wins the \"Kung-Fu Scholar\" tournament, ...",
+      "genres": [
+          "Action",
+          "Comedy",
+          "Drama"
+      ],
+      "runtime": 101,
+      "rated": "TV-14",
+      "cast": [
+          "Stephen Chow",
+          "Sharla Cheung",
+          "Man Tat Ng",
+          "Norman Chu"
+      ],
+      "num_mflix_comments": 1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2E1MDRjZTMtYjRlOS00ZDAzLWEyMDAtOGM4ZWRjZGUyZjlmXkEyXkFqcGdeQXVyMzAxNjg3MjQ@._V1_SY1000_SX677_AL_.jpg",
+      "title": "King of Beggars",
+      "fullplot": "The spoilt son of a millionaire finds the love of his life, but she will only accept him if he proves himself as a kung-fu master. He enters and wins the \"Kung-Fu Scholar\" tournament, little realizing that this victory will lead to him becoming penniless, homeless and sleepy. One day, while sleeping under a tree, he encounters a beggar he helped when he was still rich...",
+      "languages": [
+          "Cantonese"
+      ],
+      "released": "1992-12-17T00:00:00.000Z",
+      "directors": [
+          "Gordon Chan"
+      ],
+      "writers": [
+          "Kin Chung Chan (screenplay)",
+          "Gordon Chan (screenplay)"
+      ],
+      "awards": {
+          "wins": 0,
+          "nominations": 7,
+          "text": "7 nominations."
+      },
+      "lastupdated": "2015-09-12 00:38:19.500000000",
+      "year": 1992,
+      "imdb": {
+          "rating": 6.9,
+          "votes": 2034,
+          "id": 100963
+      },
+      "countries": [
+          "Hong Kong"
+      ],
+      "type": "movie",
+      "tomatoes": {
+          "viewer": {
+              "rating": 3.6,
+              "numReviews": 4729,
+              "meter": 68
+          },
+          "dvd": "1998-11-17T00:00:00.000Z",
+          "production": "Miramax",
+          "lastUpdated": "2015-07-24T18:58:27.000Z"
+      }
+  },
+  {
+      "_id": "573a1399f29313caabcec589",
+      "plot": "When The Hand of God creates Adam, he must learn the ways of the world, and can only hope for company...",
+      "genres": [
+          "Animation",
+          "Short"
+      ],
+      "runtime": 6,
+      "cast": [
+          "Nick Upton"
+      ],
+      "num_mflix_comments": 1,
+      "title": "Adam",
+      "fullplot": "The hand of God fashions Adam out of the clay of Earth and places him on a small and empty planet. Each of Adam's actions - at first he can't stand up, then he barks like a dog, then he sleeps - requires God's intervention. After Adam discovers how small the planet is, how little there is to do, and God's unwillingness to let him leave the Earth, he is depressed, lonely and disconsolate. So God asks Adam's patience for a few minutes while He fashions a companion for Adam. Adam is delighted: he dons a bow tie, uses mouthwash, and finds a bouquet of flowers. Is God thinking what Adam is thinking?",
+      "languages": [
+          "English"
+      ],
+      "released": "1992-04-09T00:00:00.000Z",
+      "directors": [
+          "Peter Lord"
+      ],
+      "writers": [
+          "Peter Lord"
+      ],
+      "awards": {
+          "wins": 3,
+          "nominations": 1,
+          "text": "Nominated for 1 Oscar. Another 2 wins & 1 nomination."
+      },
+      "lastupdated": "2015-04-13 01:16:12.963000000",
+      "year": 1992,
+      "imdb": {
+          "rating": 6.8,
+          "votes": 414,
+          "id": 101270
+      },
+      "countries": [
+          "UK"
+      ],
+      "type": "movie"
+  },
+  {
+      "_id": "573a1399f29313caabcec143",
+      "plot": "A young woman in a post-apocolyptic world rebels against the status quo, in which everyone lives their lives out in a virtual reality fantasy world of their own choosing... With ...",
+      "genres": [
+          "Horror",
+          "Sci-Fi",
+          "Thriller"
+      ],
+      "runtime": 91,
+      "rated": "R",
+      "cast": [
+          "Bruce Campbell",
+          "Angus Scrimm",
+          "Marta Martin",
+          "Elizabeth Kent"
+      ],
+      "num_mflix_comments": 1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjEyMzAyNjQzMF5BMl5BanBnXkFtZTgwMjY2ODk1MDE@._V1_SY1000_SX677_AL_.jpg",
+      "title": "Mindwarp",
+      "fullplot": "A young woman in a post-apocolyptic world rebels against the status quo, in which everyone lives their lives out in a virtual reality fantasy world of their own choosing... With consequences she couldn't have imagined.",
+      "languages": [
+          "English"
+      ],
+      "released": "1992-08-12T00:00:00.000Z",
+      "directors": [
+          "Steve Barnett"
+      ],
+      "writers": [
+          "John D. Brancato",
+          "Michael Ferris"
+      ],
+      "awards": {
+          "wins": 0,
+          "nominations": 1,
+          "text": "1 nomination."
+      },
+      "lastupdated": "2015-09-02 00:30:42.850000000",
+      "year": 1992,
+      "imdb": {
+          "rating": 5.2,
+          "votes": 1406,
+          "id": 100152
+      },
+      "countries": [
+          "USA"
+      ],
+      "type": "movie",
+      "tomatoes": {
+          "viewer": {
+              "rating": 2.9,
+              "numReviews": 1417,
+              "meter": 29
+          },
+          "dvd": "1992-08-12T00:00:00.000Z",
+          "production": "Sony Pictures Entertainment",
+          "lastUpdated": "2015-09-17T17:21:51.000Z"
+      }
+  },
+  {
+      "_id": "573a1399f29313caabcec5ab",
+      "plot": "In 1929 French Indochina, a French teenage girl embarks on a reckless and forbidden romance with a wealthy, older Chinese man, each knowing that knowledge of their affair will bring drastic consequences to each other.",
+      "genres": [
+          "Biography",
+          "Drama",
+          "Romance"
+      ],
+      "runtime": 115,
+      "rated": "R",
+      "cast": [
+          "Jane March",
+          "Tony Ka Fai Leung",
+          "Frèdèrique Meininger",
+          "Arnaud Giovaninetti"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWFhZjZkOWYtZWVkMy00MDNmLWJkMmMtMWY2Njk0YTBjNTIwXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_SY1000_SX677_AL_.jpg",
+      "title": "The Lover",
+      "fullplot": "It is French Colonial Vietnam in 1929. A young French girl from a family that is having some monetary difficulties is returning to boarding school. She is alone on public transportation when she catches the eye of a wealthy Chinese businessman. He offers her a ride into town in the back of his chauffeured sedan, and sparks fly. Can the torrid affair that ensues between them overcome the class restrictions and social mores of that time? Based on the semi-autobiographical novel by Maugerite Duras.",
+      "languages": [
+          "English"
+      ],
+      "released": "1992-10-30T00:00:00.000Z",
+      "directors": [
+          "Jean-Jacques Annaud"
+      ],
+      "writers": [
+          "Marguerite Duras (based on the novel)",
+          "Gèrard Brach (adaptation)",
+          "Jean-Jacques Annaud (adaptation)"
+      ],
+      "awards": {
+          "wins": 4,
+          "nominations": 6,
+          "text": "Nominated for 1 Oscar. Another 3 wins & 6 nominations."
+      },
+      "lastupdated": "2015-08-14 01:00:46.833000000",
+      "year": 1992,
+      "imdb": {
+          "rating": 6.9,
+          "votes": 13830,
+          "id": 101316
+      },
+      "countries": [
+          "France",
+          "UK",
+          "Vietnam"
+      ],
+      "type": "movie",
+      "tomatoes": {
+          "viewer": {
+              "rating": 3.8,
+              "numReviews": 8502,
+              "meter": 79
+          },
+          "dvd": "2001-12-11T00:00:00.000Z",
+          "critic": {
+              "rating": 4.7,
+              "numReviews": 15,
+              "meter": 20
+          },
+          "lastUpdated": "2015-08-04T19:08:46.000Z",
+          "rotten": 12,
+          "production": "MGM",
+          "fresh": 3
+      }
+  },
+  {
+      "_id": "573a1398f29313caabcebd39",
+      "countries": [
+          "Finland"
+      ],
+      "genres": [
+          "Comedy",
+          "Drama"
+      ],
+      "runtime": 110,
+      "cast": [
+          "Jorma Tommila",
+          "Taisto Reimaluoto",
+          "Rose-Marie Precht",
+          "Jouko Turkka"
+      ],
+      "num_mflix_comments": 2,
+      "title": "Back to the USSR - takaisin Ryssiin",
+      "lastupdated": "2015-08-29 00:59:17.420000000",
+      "languages": [
+          "Finnish"
+      ],
+      "released": "1992-03-27T00:00:00.000Z",
+      "directors": [
+          "Jari Halonen"
+      ],
+      "writers": [
+          "Jari Halonen",
+          "Jorma Tommila"
+      ],
+      "awards": {
+          "wins": 0,
+          "nominations": 2,
+          "text": "2 nominations."
+      },
+      "year": 1992,
+      "imdb": {
+          "rating": 5.7,
+          "votes": 127,
+          "id": 99089
+      },
+      "type": "movie",
+      "tomatoes": {
+          "viewer": {
+              "rating": 3.1,
+              "numReviews": 4118,
+              "meter": 52
+          },
+          "dvd": "2002-12-03T00:00:00.000Z",
+          "critic": {
+              "rating": 6.2,
+              "numReviews": 16,
+              "meter": 75
+          },
+          "lastUpdated": "2015-09-16T18:07:31.000Z",
+          "rotten": 4,
+          "production": "Sony Pictures Home Entertainment",
+          "fresh": 12
+      }
+  },
+  {
+      "_id": "573a1399f29313caabcece8e",
+      "plot": "Ripley continues to be stalked by a savage alien, after her escape pod crashes on a prison planet.",
+      "genres": [
+          "Horror",
+          "Sci-Fi",
+          "Thriller"
+      ],
+      "runtime": 114,
+      "metacritic": 59,
+      "rated": "R",
+      "cast": [
+          "Sigourney Weaver",
+          "Charles S. Dutton",
+          "Charles Dance",
+          "Paul McGann"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTNiYmQzNTctNzAyZC00ODY2LWE3ZjgtODU1NDA0NGI5ZDY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+      "title": "Alienè",
+      "fullplot": "After escaping from the alien planet, the ship carrying Ellen Ripley crashes onto a remote and inhabited ore refinery. While living in the ore refinery until she is rescued by her employers, Ripley discovers the horrifying reason for her crash: An alien stowaway. As the alien matures and begins to kill off the inhabitants, Ripley is unaware that her true enemy is more than just the killer alien.",
+      "languages": [
+          "English"
+      ],
+      "released": "1992-05-22T00:00:00.000Z",
+      "directors": [
+          "David Fincher"
+      ],
+      "writers": [
+          "Dan O'Bannon (characters)",
+          "Ronald Shusett (characters)",
+          "Vincent Ward (story)",
+          "David Giler (screenplay)",
+          "Walter Hill (screenplay)",
+          "Larry Ferguson (screenplay)"
+      ],
+      "awards": {
+          "wins": 5,
+          "nominations": 19,
+          "text": "Nominated for 1 Oscar. Another 4 wins & 19 nominations."
+      },
+      "lastupdated": "2015-09-02 00:04:45.583000000",
+      "year": 1992,
+      "imdb": {
+          "rating": 6.4,
+          "votes": 188505,
+          "id": 103644
+      },
+      "countries": [
+          "USA"
+      ],
+      "type": "movie",
+      "tomatoes": {
+          "viewer": {
+              "rating": 3.1,
+              "numReviews": 337156,
+              "meter": 48
+          },
+          "dvd": "1999-06-01T00:00:00.000Z",
+          "critic": {
+              "rating": 5.4,
+              "numReviews": 45,
+              "meter": 44
+          },
+          "lastUpdated": "2015-09-12T18:04:23.000Z",
+          "rotten": 25,
+          "production": "Twentieth Century Fox Home Entertainment",
+          "fresh": 20
+      }
+  },
+  {
+      "_id": "573a1399f29313caabcec983",
+      "plot": "A drug dealer with upscale clientele is having moral problems going about his daily deliveries. A reformed addict, he has never gotten over the wife that left him, and the couple that use ...",
+      "genres": [
+          "Crime",
+          "Drama"
+      ],
+      "runtime": 103,
+      "rated": "R",
+      "cast": [
+          "Willem Dafoe",
+          "Susan Sarandon",
+          "Dana Delany",
+          "David Clennon"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDA3YzZhZjAtYWFiMC00M2Q4LTk5YzQtOGY3MTljMzMyOGViXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+      "title": "Light Sleeper",
+      "fullplot": "A drug dealer with upscale clientele is having moral problems going about his daily deliveries. A reformed addict, he has never gotten over the wife that left him, and the couple that use him for deliveries worry about his mental well-being and his effectiveness at his job. Meanwhile someone is killing women in apparently drug-related incidents.",
+      "languages": [
+          "English"
+      ],
+      "released": "1992-03-13T00:00:00.000Z",
+      "directors": [
+          "Paul Schrader"
+      ],
+      "writers": [
+          "Paul Schrader"
+      ],
+      "awards": {
+          "wins": 2,
+          "nominations": 5,
+          "text": "2 wins & 5 nominations."
+      },
+      "lastupdated": "2015-09-02 00:32:52.990000000",
+      "year": 1992,
+      "imdb": {
+          "rating": 6.8,
+          "votes": 3444,
+          "id": 102307
+      },
+      "countries": [
+          "USA"
+      ],
+      "type": "movie",
+      "tomatoes": {
+          "viewer": {
+              "rating": 3.3,
+              "numReviews": 2030,
+              "meter": 63
+          },
+          "dvd": "1998-12-29T00:00:00.000Z",
+          "critic": {
+              "rating": 7.3,
+              "numReviews": 37,
+              "meter": 89
+          },
+          "lastUpdated": "2015-09-02T19:33:51.000Z",
+          "consensus": "Light Sleeper requires patience, but delivers commensurate rewards -- and boasts an absorbing performance from Willem Dafoe.",
+          "rotten": 4,
+          "production": "Live Home Video",
+          "fresh": 33
+      }
+  }
+]
